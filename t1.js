@@ -1,2 +1,2 @@
-window.open ("http://www.551398.com/#免费公开一码"); 
-window.location.href="http://www.551398.com/#免费公开一码"; 
+window.open ("http://www.xrz6.com/index.htm#2016lh");
+window.location.href="http://www.xrz6.com/index.htm#2016lh";
